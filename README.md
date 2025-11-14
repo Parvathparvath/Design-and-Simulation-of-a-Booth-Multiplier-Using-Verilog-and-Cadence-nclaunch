@@ -1,3 +1,4 @@
+
 # Ex No: 08 - Design and Simulation of a Booth Multiplier Using Verilog and Cadence nclaunch
 
 ## Aim
@@ -168,12 +169,11 @@ endmodule
 ![Screenshot 2025-05-21 163301](https://github.com/user-attachments/assets/4dc3ff0b-9533-4acd-98d2-e24df31eb513)
 
 ## Simulation Results
+![WhatsApp Image 2025-11-03 at 15 31 35_4c6ec649](https://github.com/user-attachments/assets/bce6c534-69c5-4645-84d6-85c5a44f80d1)
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
 
 
 ## Results
 Successfully designed and simulated a Booth Multiplier in Verilog.
 Performed signed multiplication efficiently.
 Verified correctness using Cadence nclaunch.
-
